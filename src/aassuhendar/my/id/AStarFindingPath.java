@@ -25,6 +25,7 @@ public class AStarFindingPath extends javax.swing.JFrame {
         initComponents();
         setLocationRelativeTo(null);
 //           double f, double g, double h, double cost
+//           
         Node Bobbia = new Node("Bobbia", 0, 0, 10.5, 0);
         Node Piacenza = new Node("Piacenza", 0, 0, 10, 5);
         Node Terme = new Node("Terme", 0, 0, 7, 3);
